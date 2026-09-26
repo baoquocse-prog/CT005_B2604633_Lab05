@@ -1,3 +1,1 @@
-# Lợi ích công nghệ số
-
-https://youtu.be/iZtiPsn8q8E
+## Lab05_Ex2.2: https://www.youtube.com/watch?v=xxx
